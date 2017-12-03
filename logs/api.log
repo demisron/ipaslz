@@ -266,3 +266,137 @@
 16:59:01.002 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Authorisation our user with conf file with localization page {}" parameterizedStepValue:"Authorisation our user with conf file with localization page <number>" parameters:"number" > > 
 16:59:01.023 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verifying access inner the document <idDoc>" > 
 16:59:01.024 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verifying access inner the document {}" parameterizedStepValue:"Verifying access inner the document <idDoc>" parameters:"idDoc" > > 
+18:13:24.809 Failed to start execution API Service. GAUGE_API_V2_PORT Environment variable not set 
+18:13:24.812 Watching directory: F:\IntelliJ IDEA Community Edition 2016.3.1\project\IpasTest\specs
+18:13:24.812 Found 12 files
+18:13:24.813 Initializing concepts cache with 0 concepts
+18:13:24.830 Initializing specs cache with 12 specs
+18:13:24.830 Adding specs from F:\IntelliJ IDEA Community Edition 2016.3.1\project\IpasTest\specs\IncorrectRegMessages.spec
+18:13:24.830 Adding specs from F:\IntelliJ IDEA Community Edition 2016.3.1\project\IpasTest\specs\IncorrectChangeEmailMessages.spec
+18:13:24.830 Adding specs from F:\IntelliJ IDEA Community Edition 2016.3.1\project\IpasTest\specs\OpenModulesSituations.spec
+18:13:24.830 Adding specs from F:\IntelliJ IDEA Community Edition 2016.3.1\project\IpasTest\specs\SearchAreaExact.spec
+18:13:24.830 Adding specs from F:\IntelliJ IDEA Community Edition 2016.3.1\project\IpasTest\specs\ModulesAndRoles.spec
+18:13:24.830 Adding specs from F:\IntelliJ IDEA Community Edition 2016.3.1\project\IpasTest\specs\BallsOnMainPage.spec
+18:13:24.830 Adding specs from F:\IntelliJ IDEA Community Edition 2016.3.1\project\IpasTest\specs\Favorities.spec
+18:13:24.831 Adding specs from F:\IntelliJ IDEA Community Edition 2016.3.1\project\IpasTest\specs\SearchPhrasesCheckSuggest.spec
+18:13:24.831 Adding specs from F:\IntelliJ IDEA Community Edition 2016.3.1\project\IpasTest\specs\PermissionsAnonymous.spec
+18:13:24.831 Adding specs from F:\IntelliJ IDEA Community Edition 2016.3.1\project\IpasTest\specs\DocEntryProcedure.spec
+18:13:24.831 Adding specs from F:\IntelliJ IDEA Community Edition 2016.3.1\project\IpasTest\specs\IncorrectAutorizationMessages.spec
+18:13:24.831 Adding specs from F:\IntelliJ IDEA Community Edition 2016.3.1\project\IpasTest\specs\VerdictumFeedBackLinks.spec
+18:13:24.831 Initializing steps cache with 63 steps
+18:13:54.439 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Try out links <verdictum> in document" > 
+18:13:54.440 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Try out links {} in document" parameterizedStepValue:"Try out links <verdictum> in document" parameters:"verdictum" > > 
+18:13:54.452 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check authorization messages for empty fields" > 
+18:13:54.452 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check authorization messages for empty fields" parameterizedStepValue:"Check authorization messages for empty fields" > > 
+18:13:54.452 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go product <>" > 
+18:13:54.452 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go product {}" parameterizedStepValue:"Go product <>" parameters:"" > > 
+18:13:54.453 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open registration page" > 
+18:13:54.453 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open registration page" parameterizedStepValue:"Open registration page" > > 
+18:13:54.453 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ReferentCreateEdit" > 
+18:13:54.453 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ReferentCreateEdit" parameterizedStepValue:"ReferentCreateEdit" > > 
+18:13:54.453 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check message for invalid new e-mail <Table>" > 
+18:13:54.454 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check message for invalid new e-mail {}" parameterizedStepValue:"Check message for invalid new e-mail <Table>" parameters:"Table" > > 
+18:13:54.454 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check show-case application" > 
+18:13:54.454 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check show-case application" parameterizedStepValue:"Check show-case application" > > 
+18:13:54.454 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to main page" > 
+18:13:54.454 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to main page" parameterizedStepValue:"Navigate to main page" > > 
+18:13:54.454 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Switching to all balls <downup> and check content theses and links" > 
+18:13:54.455 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Switching to all balls {} and check content theses and links" parameterizedStepValue:"Switching to all balls <downup> and check content theses and links" parameters:"downup" > > 
+18:13:54.455 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open search area list <table>" > 
+18:13:54.455 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open search area list {}" parameterizedStepValue:"Open search area list <table>" parameters:"table" > > 
+18:13:54.455 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"User input incorrect Phone <user input>" > 
+18:13:54.455 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"User input incorrect Phone {}" parameterizedStepValue:"User input incorrect Phone <user input>" parameters:"user input" > > 
+18:13:54.456 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Switch to <roleName> role" > 
+18:13:54.456 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Switch to {} role" parameterizedStepValue:"Switch to <roleName> role" parameters:"roleName" > > 
+18:13:54.456 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check message for empty field <Table>" > 
+18:13:54.456 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check message for empty field {}" parameterizedStepValue:"Check message for empty field <Table>" parameters:"Table" > > 
+18:13:54.456 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open module, search in module with check after sort list on and open document <table>" > 
+18:13:54.456 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open module, search in module with check after sort list on and open document {}" parameterizedStepValue:"Open module, search in module with check after sort list on and open document <table>" parameters:"table" > > 
+18:13:54.457 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check message for empty New e-mail field" > 
+18:13:54.457 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check message for empty New e-mail field" parameterizedStepValue:"Check message for empty New e-mail field" > > 
+18:13:54.458 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check module is NOT Displayed in role <roleTable>" > 
+18:13:54.458 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check module is NOT Displayed in role {}" parameterizedStepValue:"Check module is NOT Displayed in role <roleTable>" parameters:"roleTable" > > 
+18:13:54.458 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check DocEntryProcedure info is displayed in About doc panel <Table>" > 
+18:13:54.458 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check DocEntryProcedure info is displayed in About doc panel {}" parameterizedStepValue:"Check DocEntryProcedure info is displayed in About doc panel <Table>" parameters:"Table" > > 
+18:13:54.458 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Creating a folder from the document adding menu to favorites" > 
+18:13:54.458 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Creating a folder from the document adding menu to favorites" parameterizedStepValue:"Creating a folder from the document adding menu to favorites" > > 
+18:13:54.459 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Authorisation our user with conf file with localization page <number>" > 
+18:13:54.459 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Authorisation our user with conf file with localization page {}" parameterizedStepValue:"Authorisation our user with conf file with localization page <number>" parameters:"number" > > 
+18:13:54.459 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check DocEntryProcedure info is NOT displayed in About doc panel <Table>" > 
+18:13:54.459 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check DocEntryProcedure info is NOT displayed in About doc panel {}" parameterizedStepValue:"Check DocEntryProcedure info is NOT displayed in About doc panel <Table>" parameters:"Table" > > 
+18:13:54.459 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Authorisation user - <lg> and pwd - <pw> with localization page <number>" > 
+18:13:54.459 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Authorisation user - {} and pwd - {} with localization page {}" parameterizedStepValue:"Authorisation user - <lg> and pwd - <pw> with localization page <number>" parameters:"lg" parameters:"pw" parameters:"number" > > 
+18:13:54.460 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Refresh page" > 
+18:13:54.460 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Refresh page" parameterizedStepValue:"Refresh page" > > 
+18:13:54.460 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check message for incorrect passwd" > 
+18:13:54.460 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check message for incorrect passwd" parameterizedStepValue:"Check message for incorrect passwd" > > 
+18:13:54.460 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Favorite's export and import" > 
+18:13:54.460 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Favorite's export and import" parameterizedStepValue:"Favorite's export and import" > > 
+18:13:54.461 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Authorisation user2 - <lg> and pwd - <pw> with localization page <number> for <config>" > 
+18:13:54.461 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Authorisation user2 - {} and pwd - {} with localization page {} for {}" parameterizedStepValue:"Authorisation user2 - <lg> and pwd - <pw> with localization page <number> for <config>" parameters:"lg" parameters:"pw" parameters:"number" parameters:"config" > > 
+18:13:54.461 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verifying access inner the document <idDoc>" > 
+18:13:54.461 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verifying access inner the document {}" parameterizedStepValue:"Verifying access inner the document <idDoc>" parameters:"idDoc" > > 
+18:13:54.461 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check module is Displayed in role <roleTable>" > 
+18:13:54.461 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check module is Displayed in role {}" parameterizedStepValue:"Check module is Displayed in role <roleTable>" parameters:"roleTable" > > 
+18:13:54.462 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click registration button in registration form" > 
+18:13:54.462 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click registration button in registration form" parameterizedStepValue:"Click registration button in registration form" > > 
+18:13:54.462 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go IPS Configuration <config>" > 
+18:13:54.462 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go IPS Configuration {}" parameterizedStepValue:"Go IPS Configuration <config>" parameters:"config" > > 
+18:13:54.463 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Favorite's doc save and edit" > 
+18:13:54.463 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Favorite's doc save and edit" parameterizedStepValue:"Favorite's doc save and edit" > > 
+18:13:54.463 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open authorization page" > 
+18:13:54.463 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open authorization page" parameterizedStepValue:"Open authorization page" > > 
+18:13:54.463 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Search within balls <strSearch>" > 
+18:13:54.463 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Search within balls {}" parameterizedStepValue:"Search within balls <strSearch>" parameters:"strSearch" > > 
+18:13:54.464 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check message for current e-mail input" > 
+18:13:54.464 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check message for current e-mail input" parameterizedStepValue:"Check message for current e-mail input" > > 
+18:13:54.464 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\320\241ontext search any phrases with switching tabs <>" > 
+18:13:54.464 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\320\241ontext search any phrases with switching tabs {}" parameterizedStepValue:"\320\241ontext search any phrases with switching tabs <>" parameters:"" > > 
+18:13:54.464 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open module <NameModule>" > 
+18:13:54.464 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open module {}" parameterizedStepValue:"Open module <NameModule>" parameters:"NameModule" > > 
+18:13:54.465 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open situation, search in module with check after sort list on and open document <table>" > 
+18:13:54.465 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open situation, search in module with check after sort list on and open document {}" parameterizedStepValue:"Open situation, search in module with check after sort list on and open document <table>" parameters:"table" > > 
+18:13:54.465 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"User input incorrect e-mail <user input>" > 
+18:13:54.465 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"User input incorrect e-mail {}" parameterizedStepValue:"User input incorrect e-mail <user input>" parameters:"user input" > > 
+18:13:54.465 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check message for other users e-mail input" > 
+18:13:54.466 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check message for other users e-mail input" parameterizedStepValue:"Check message for other users e-mail input" > > 
+18:13:54.466 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go IPS Search" > 
+18:13:54.466 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go IPS Search" parameterizedStepValue:"Go IPS Search" > > 
+18:13:54.467 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check message for e-mail field <Table>" > 
+18:13:54.467 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check message for e-mail field {}" parameterizedStepValue:"Check message for e-mail field <Table>" parameters:"Table" > > 
+18:13:54.467 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click social <network button>" > 
+18:13:54.467 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click social {}" parameterizedStepValue:"Click social <network button>" parameters:"network button" > > 
+18:13:54.467 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check message for empty <field> " > 
+18:13:54.467 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check message for empty {}" parameterizedStepValue:"Check message for empty <field>" parameters:"field" > > 
+18:13:54.468 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Tear down step 1" > 
+18:13:54.468 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Tear down step 1" parameterizedStepValue:"Tear down step 1" > > 
+18:13:54.468 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"FavoritiesAbzacStar2" > 
+18:13:54.468 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"FavoritiesAbzacStar2" parameterizedStepValue:"FavoritiesAbzacStar2" > > 
+18:13:54.468 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Suggest after the context search <>" > 
+18:13:54.468 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Suggest after the context search {}" parameterizedStepValue:"Suggest after the context search <>" parameters:"" > > 
+18:13:54.469 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check message for 4th change e-mail request" > 
+18:13:54.469 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check message for 4th change e-mail request" parameterizedStepValue:"Check message for 4th change e-mail request" > > 
+18:13:54.469 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check access denied to search" > 
+18:13:54.469 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check access denied to search" parameterizedStepValue:"Check access denied to search" > > 
+18:13:54.470 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open change e-mail page in Profile" > 
+18:13:54.470 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open change e-mail page in Profile" parameterizedStepValue:"Open change e-mail page in Profile" > > 
+18:13:54.470 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open found first document with list after context search phrases <> with exact <>" > 
+18:13:54.470 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open found first document with list after context search phrases {} with exact {}" parameterizedStepValue:"Open found first document with list after context search phrases <> with exact <>" parameters:"" parameters:"" > > 
+18:13:54.470 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Search in favorites" > 
+18:13:54.471 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Search in favorites" parameterizedStepValue:"Search in favorites" > > 
+18:13:54.471 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check All module on main page" > 
+18:13:54.471 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check All module on main page" parameterizedStepValue:"Check All module on main page" > > 
+18:13:54.471 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check message for phone field <Table>" > 
+18:13:54.471 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check message for phone field {}" parameterizedStepValue:"Check message for phone field <Table>" parameters:"Table" > > 
+18:13:54.472 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check messages for banned domains <Table>" > 
+18:13:54.472 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check messages for banned domains {}" parameterizedStepValue:"Check messages for banned domains <Table>" parameters:"Table" > > 
+18:13:54.472 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check message for email without @" > 
+18:13:54.472 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check message for email without @" parameterizedStepValue:"Check message for email without @" > > 
+18:13:54.472 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check <moduleName> module is NOT Dispayed" > 
+18:13:54.472 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check {} module is NOT Dispayed" parameterizedStepValue:"Check <moduleName> module is NOT Dispayed" parameters:"moduleName" > > 
+18:13:54.473 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check <moduleName> module is Dispayed" > 
+18:13:54.473 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check {} module is Dispayed" parameterizedStepValue:"Check <moduleName> module is Dispayed" parameters:"moduleName" > > 
+18:13:54.473 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check message for social network unmarked checkbox <Table>" > 
+18:13:54.473 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check message for social network unmarked checkbox {}" parameterizedStepValue:"Check message for social network unmarked checkbox <Table>" parameters:"Table" > > 
+18:13:54.473 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Set UKR-RUS language" > 
+18:13:54.473 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Set UKR-RUS language" parameterizedStepValue:"Set UKR-RUS language" > > 

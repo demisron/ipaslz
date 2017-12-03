@@ -1,5 +1,8 @@
 .idea/*
 .lib/*
+reports/*
+logs/*
+.gauge/*
 
 *.class
 

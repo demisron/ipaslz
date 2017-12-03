@@ -140,3 +140,23 @@ java.lang.Thread.run(Unknown Source)
 16:56:22.824 Stacktrace: 
 16:58:58.823 Got a kill message. Killing runner.
 16:59:02.825 Killing runner with PID:3436 forcefully
+18:13:25.095 Got a kill message. Killing runner.
+18:13:29.096 Killing runner with PID:5092 forcefully
+18:13:49.975 Checking updates...
+18:13:54.587 # Balls on main pages
+18:13:58.720 ## Check balls on main pages
+18:13:58.722 * Authorisation our user with conf file with localization page "2"
+18:14:09.552 * Switching to all balls "down" and check content theses and links
+18:14:39.684 * Switching to all balls "up" and check content theses and links
+18:15:04.406 * Search within balls "капитал"
+18:15:06.786 * Tear down step 1
+18:15:11.220 Plugin [Html Report] with pid [432] has exited
+18:15:11.420 Specifications:	1 executed	1 passed	0 failed	0 skipped
+18:15:11.420 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+18:15:11.420 
+Total time taken: 1m15.994s
+18:15:11.420 Updates are available. Run gauge --check-updates for more info.
+18:15:25.986 Checking updates...
+18:15:26.617 Runner connection error: Runner with pid 4864 quit unexpectedly(exit status 1).
+18:15:26.617 Error while killing runner: invalid argument
+18:15:26.617 Failed to start gauge API: Runner with pid 4864 quit unexpectedly(exit status 1).
