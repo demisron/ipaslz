@@ -7,9 +7,6 @@ import org.apache.commons.logging.LogFactory;
 import static MethodsCommon.Driver.driver;
 import static MethodsCommon.Func.*;
 
-/**
- * Created by FedorchukR on 21.03.2017.
- */
 public class Authorization {
 
     Log log = LogFactory.getLog(Authorization.class);

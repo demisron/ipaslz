@@ -8,9 +8,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-//import static test.java.Driver.driver;
-
-/* Created by kuleshovag on 14.08.2017 */
 public class PersonalCabinetPage extends MethodsCommon{
     private WebDriver driver;
 
@@ -89,4 +86,6 @@ public class PersonalCabinetPage extends MethodsCommon{
     }
 
 }
+
+//import static test.java.Driver.driver;
 

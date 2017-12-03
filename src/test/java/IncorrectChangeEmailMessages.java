@@ -11,7 +11,6 @@ import org.apache.commons.logging.LogFactory;
 import java.util.List;
 
 import static MethodsCommon.Driver.driver;
-//import static test.java.Driver.driver;
 
 public class IncorrectChangeEmailMessages extends MethodsCommon {
     private static PersonalCabinetPage personalCabinetPage = new PersonalCabinetPage(driver);

@@ -21,9 +21,6 @@ import static MethodsCommon.Func.waitElement;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotEquals;
 
-/**
- * Created by FedorchukR on 28.08.2017.
- */
 public class SearchPhrasesCheckSuggest {
 
     private String parrent, totalBefore, strAnyValueBefore="", strAnyValueAfter="";

@@ -11,9 +11,6 @@ import java.util.List;
 import static MethodsCommon.Driver.driver;
 import static MethodsCommon.Func.*;
 
-/**
- * Created by FedorchukR on 28.08.2017.
- */
 public class VerdictumFeedBackLinks {
 
     OpenDocPage oPage = new OpenDocPage(driver);

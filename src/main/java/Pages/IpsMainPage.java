@@ -19,9 +19,6 @@ import java.util.concurrent.TimeUnit;
 
 import static MethodsCommon.Func.*;
 
-/**
- * Created by FedorchukR on 21.04.2017.
- */
 public class IpsMainPage {
 
     private final WebDriver driver;

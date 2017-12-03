@@ -2,7 +2,6 @@ import java.io.File;
 import java.lang.String;
 import java.util.HashMap;
 
-import MethodsCommon.Func;
 import org.junit.*;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.logging.*;

@@ -18,10 +18,6 @@ import static java.lang.String.valueOf;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotEquals;
 
-/**
- * Created by FedorchukR on 17.03.2017.
- */
-
 public class BallsOnMainPage {
 
     @FindBy(xpath = "//div[@class='theses-search']//span[starts-with(@class, 'input-group-addon')]/i")
